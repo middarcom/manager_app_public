@@ -10,10 +10,15 @@
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "/manager_app_public/saudi-icon.svg",
+      "src": "/manager_app_public/logoIcon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
+    },
+    {
+      "src": "/manager_app_public/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
