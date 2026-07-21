@@ -2,21 +2,21 @@
   "name": "Middar Manager",
   "short_name": "Middar Manager",
   "description": "Middar business management dashboard",
-  "start_url": "/manager_app_public/",
-  "scope": "/manager_app_public/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "/manager_app_public/logoIcon.svg",
+      "src": "/logoIcon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "/manager_app_public/logo.png",
+      "src": "/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
